@@ -28,7 +28,7 @@ Standalone PyTorch package for real-time whole-body 3D pose estimation. Provides
 
 ```bash
 # Clone repository
-git clone https://github.com/mutedeparture/rtmpose3d.git
+git clone https://github.com/b-arac/rtmpose3d.git
 cd rtmpose3d
 
 # Install PyTorch (adjust CUDA version as needed)
@@ -212,7 +212,7 @@ python examples/basic_usage.py [image_path]
   author={Arac, Bahadir},
   year={2025},
   publisher={GitHub},
-  url={https://github.com/mutedeparture/rtmpose3d}
+  url={https://github.com/b-arac/rtmpose3d}
 }
 ```
 
@@ -224,4 +224,4 @@ Apache 2.0
 
 Built on [MMPose](https://github.com/open-mmlab/mmpose) by OpenMMLab.
 
-````
+```

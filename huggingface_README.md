@@ -52,13 +52,13 @@ This repository contains checkpoints for:
 ## Installation
 
 ```bash
-pip install git+https://github.com/mutedeparture/rtmpose3d.git
+pip install git+https://github.com/b-arac/rtmpose3d.git
 ```
 
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/mutedeparture/rtmpose3d.git
+git clone https://github.com/b-arac/rtmpose3d.git
 cd rtmpose3d
 pip install -r requirements.txt
 pip install -e .
@@ -173,7 +173,7 @@ Evaluated on standard 3D pose benchmarks:
   author={Arac, Bahadir},
   year={2025},
   publisher={GitHub},
-  url={https://github.com/mutedeparture/rtmpose3d}
+  url={https://github.com/b-arac/rtmpose3d}
 }
 ```
 
@@ -187,6 +187,6 @@ Built on [MMPose](https://github.com/open-mmlab/mmpose) by OpenMMLab. Models tra
 
 ## Links
 
-- **GitHub Repository**: [mutedeparture/rtmpose3d](https://github.com/mutedeparture/rtmpose3d)
+- **GitHub Repository**: [b-arac/rtmpose3d](https://github.com/b-arac/rtmpose3d)
 - **Documentation**: See README in the repository
 - **MMPose**: [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)

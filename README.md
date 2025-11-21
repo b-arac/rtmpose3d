@@ -223,5 +223,3 @@ Apache 2.0
 ## Acknowledgments
 
 Built on [MMPose](https://github.com/open-mmlab/mmpose) by OpenMMLab.
-
-```
